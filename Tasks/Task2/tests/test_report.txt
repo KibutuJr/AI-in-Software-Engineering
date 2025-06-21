@@ -1,0 +1,12 @@
+  console.info
+    
+              Project Login Tests doesn't have any suites matching filter .*,
+              attempting to iterate all tests in project
+
+      at src/main.test.ts:184:17
+          at Array.forEach (<anonymous>)
+
+[32minfo[39m: Running test Valid login
+[32minfo[39m: Finished test Valid login Success
+[32minfo[39m: Running test Invalid login
+[32minfo[39m: Finished test Invalid login Success
