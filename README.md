@@ -114,7 +114,8 @@ Focus is given to the implications of deploying biased models in real-world scen
 
 ## 🎥 Presentation Video (3-minute Demo)
 
-**[To be uploaded to discussion group]**  
+**[Click here to watch the project demo on Loom](https://www.loom.com/share/5d943b829fdd4cc0ba1af4a1e87276f5?sid=32cff70d-a0f8-4210-8340-7beb5bdfa18b)** 
+
 The video walkthrough will show:
 - Overview of tasks and structure
 - Live demo of Task 1 & Task 2
