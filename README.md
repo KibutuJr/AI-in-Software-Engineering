@@ -152,8 +152,7 @@ The video walkthrough will show:
 
 ## 👥 Contributors
 
-Fred Kibutu
-Dadius Ainda
+Fred Kibutu & Dadius Ainda
 ---
 
 Thank you for reviewing this project. We welcome feedback and contributions!
