@@ -2,7 +2,7 @@
 
 # 💻 AI in Software Engineering – Week 4 Assignment  
 **Theme:** _Building Intelligent Software Solutions_  
-**Author:** [Fred Kibutu, Dadius Ainda]  
+**Authors:** Fred Kibutu & Dadius Ainda 
 **Repo:** [AI-in-Software-Engineering](https://github.com/KibutuJr/AI-in-Software-Engineering)  
 **Date:** June 2025  
 
@@ -24,15 +24,17 @@ AI-in-Software-Engineering/
 ├── docs/
 │ ├── theoretical.rst # Answers to theoretical questions
 │ ├── ethical.rst # Ethical reflection on bias & fairness
-│ └── aiops-flow.png # AIOps pipeline architecture
+│ 
 │
 ├── Tasks/
 │ ├── Task1/ # AI Code Completion
 │ ├── Task2/ # AI-based Automated Testing
 │ └── Task3/ # Predictive Analytics
 │
-├── AIOps diagram/ # Visual assets for deployment flow
+├── AIOps diagram/aiops-flow.png # AIOps pipeline architecture # Visual assets for deployment flow
+├── Report.pdf
 ├── README.md # You're here!
+├── Video
 
 
 ---
