@@ -131,6 +131,7 @@ The video walkthrough will show:
 | Scikit-learn     | Predictive modeling (Random Forest)  |
 | Pandas           | Data wrangling & preprocessing       |
 | IBM AIF360       | Fairness and bias mitigation         |
+| Draw.io          | CI/CD Pipeline with AI Monitoring    |
 
 ---
 
